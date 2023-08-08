@@ -7,3 +7,12 @@ ServerSide:
 4.It will support networking 
 backend:npm start
 frontend:npm start 
+============================
+userDetails:
+role:employee 
+email:arun@gmail.com
+password:12345 
+role:admin 
+email:admin@gmail.com 
+password:12345
+===========================
