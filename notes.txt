@@ -1,0 +1,9 @@
+Nodejs - It is run time environment for javascript 
+Nodejs - It is serverside programming language 
+ServerSide:
+1.It will support database 
+2.It will support file system interaction 
+3.It will support Operating system 
+4.It will support networking 
+backend:npm start
+frontend:npm start 
