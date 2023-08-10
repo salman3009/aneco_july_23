@@ -33,3 +33,21 @@ navigate --> javascript - register component
 =================================
 JWT TOKEN - JSON WEB TOKEN 
 =================================
+interview:
+AUTHENTICATION
+AUTHORIZATION
+session storage 
+jwt 
+react router 
+functional component 
+useState 
+useEffect 
+interceptor 
+axios get,post,patch,delete 
+modal 
+table map 
+table delete only admin can see 
+form handling 
+error handling 
+validation 
+==============================
