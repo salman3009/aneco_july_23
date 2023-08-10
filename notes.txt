@@ -16,3 +16,20 @@ role:admin
 email:admin@gmail.com 
 password:12345
 ===========================
+AUTHENTICATION - REGISTRATION-LOGIN-FLOW
+AUTHORIZATION - AFTER AUTHENTICATION FLOW 
+IN OUR APPLICATION 
+REGISTRATION COMPONENT 
+LOGIN COMPONENT 
+DASHBOARD COMPONENT 
+//WE HAVE TABLE WITH READ,UPDATE AND DELETE 
+//DELETE CAN BE DONE ONLY ADMIN USER 
+=========================================
+api call 
+REGISTER - post method object 
+react router 
+<link> - html - example header component
+navigate --> javascript - register component
+=================================
+JWT TOKEN - JSON WEB TOKEN 
+=================================
