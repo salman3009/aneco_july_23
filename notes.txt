@@ -51,3 +51,27 @@ form handling
 error handling 
 validation 
 ==============================
+Project Explanation:
+1.This project is developed using reactjs and backend we are using mock data.
+2.This project consists of following features  
+           1.AUTHENTICATION concept 
+           2.AUTHORIZATION concept 
+           3.CRUD operation using api with axios package
+           4.Routing setup 
+           5.form validation 
+           6.using session storage to keep token 
+3.Routing is mechanism where using one single html to view multiple components at the same time 
+4.For register and login we have done form validation and we are using state to keep data 
+5.After register and login we are using axios package to call backend api with post method 
+6.After login is successful the backend will send jwt token and will store in session storage 
+7.This process is called AUTHENTICATION 
+8.JWT is a token is used by frontend to send for every api after login so that backend can verify it and send the data 
+9.JWT is need whenever we have separate frontend and backend application 
+10.WE have two types of role one is employee and admin 
+11.employee can create the data and update it and they cannot delete the data 
+12.admin can able to create,update,detete the data 
+13.This process is called AUTHORIZATION
+14.we have used useEffect inside the DASHBOARD component to call api only one time to render inside the map function.
+15.all api is integrated with axios package.
+
+
